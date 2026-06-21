@@ -1,4 +1,4 @@
-# Day 2/28 - Terraform Providers
+# Terraform Providers
 
 An introduction to Terraform Providers, their role in infrastructure provisioning, version management, and provider configuration best practices.
 
